@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sshpass -p "attus@2020" ssh attus@localhost ps aux > log.txt;
+sshpass -p "felipe@2020" ssh felipe@localhost ps aux > log.txt;
 
 while getopts "ch" OPT; do
 	case "$OPT" in
