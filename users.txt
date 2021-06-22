@@ -1,0 +1,2 @@
+usuario1 usuario@script.com 123@usuario tecnologia
+usuario2 usuario2@script.com 123@usuario2 tecnologia
